@@ -3,3 +3,15 @@ geopandas
 leafmap
 owslib
 streamlit
+ee
+geemap
+pandas
+numpy
+import 
+json
+shapely
+random
+datetime
+tempfile
+os
+zipfile
